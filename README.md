@@ -3,8 +3,8 @@ HANDWRITTEN MATRIX RECOGNITION AND SIMPLIFICATION USING CONVOLUTIONAL NEURAL NET
 An AI system for doing matrix operations by taking an input image of the handwritten matrix
 Python Library : Tensorflow-Keras,Numpy,Opencv and seaborn
 Model.py
- 1.CNN model is developed by tensorflow-keras 
- 2. Data set : MNIST
+  1. CNN model is developed by tensorflow-keras 
+  2. Data set : MNIST
 Datapreprocessing
   1. Convert image from RGB to Gray scale
   2. Convert Grayscale image into binary image
